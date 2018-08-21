@@ -1,0 +1,5 @@
+2018-08-21 12:22:39,573 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.learned:maven-demo:0.0.1-SNAPSHOT @ E:\core-java\java-maven-simple\maven-demo\pom.xml.
+2018-08-21 12:22:40,966 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo/src/main/java
+2018-08-21 12:22:40,969 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven-demo/src/main/resources
+2018-08-21 12:22:40,970 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo/src/test/java
+2018-08-21 12:22:40,971 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven-demo/src/test/resources
